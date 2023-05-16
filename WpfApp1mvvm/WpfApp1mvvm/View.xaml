@@ -1,0 +1,43 @@
+﻿<Window x:Class="WpfApp1mvvm.View"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1mvvm"
+        mc:Ignorable="d"
+        Title="View" Height="450" Width="800">
+    <Grid Margin="5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.6*" />
+            <ColumnDefinition Width="0.8*" />
+        </Grid.ColumnDefinitions>
+
+        <ListBox Grid.Column="0" ItemsSource="{Binding Dogs}"
+                 SelectedItem="{Binding SelectedDog}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="5">
+                        <TextBlock FontSize="18" Text="{Binding Path=DogName}" />
+                        <TextBlock Text="{Binding Path=DogDescription}" />
+                      </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <StackPanel Grid.Column="1" DataContext="{Binding SelectedDog}">
+            <TextBlock Text="DogName" />
+            <TextBox Text="{Binding DogName, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock Text="DogDescription" />
+            <TextBox Text="{Binding DogDescription, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock Text="imgPath" />
+            <TextBox Text="{Binding ImgPath, UpdateSourceTrigger=PropertyChanged}" />
+
+            <Grid Margin="0,5,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="5"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>

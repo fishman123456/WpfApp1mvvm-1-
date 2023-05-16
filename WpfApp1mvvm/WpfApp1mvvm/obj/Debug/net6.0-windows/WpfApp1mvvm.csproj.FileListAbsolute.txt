@@ -1,0 +1,42 @@
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\bin\Debug\net6.0-windows\WpfApp1mvvm.exe
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\bin\Debug\net6.0-windows\WpfApp1mvvm.deps.json
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\bin\Debug\net6.0-windows\WpfApp1mvvm.runtimeconfig.json
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\bin\Debug\net6.0-windows\WpfApp1mvvm.dll
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\bin\Debug\net6.0-windows\WpfApp1mvvm.pdb
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.csproj.AssemblyReference.cache
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\View.g.cs
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm_MarkupCompile.cache
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm_MarkupCompile.lref
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\View.baml
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.g.resources
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.AssemblyInfoInputs.cache
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.AssemblyInfo.cs
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.csproj.CoreCompileInputs.cache
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.dll
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\refint\WpfApp1mvvm.dll
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.pdb
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.genruntimeconfig.cache
+C:\Users\wital\source\repos\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\ref\WpfApp1mvvm.dll
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\bin\Debug\net6.0-windows\WpfApp1mvvm.exe
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\bin\Debug\net6.0-windows\WpfApp1mvvm.deps.json
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\bin\Debug\net6.0-windows\WpfApp1mvvm.runtimeconfig.json
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\bin\Debug\net6.0-windows\WpfApp1mvvm.dll
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\bin\Debug\net6.0-windows\WpfApp1mvvm.pdb
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.csproj.AssemblyReference.cache
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\View.g.cs
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm_MarkupCompile.cache
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm_MarkupCompile.lref
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\View.baml
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.g.resources
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.AssemblyInfoInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.AssemblyInfo.cs
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.dll
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\refint\WpfApp1mvvm.dll
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.pdb
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\WpfApp1mvvm.genruntimeconfig.cache
+C:\Users\Fishman_1\Documents\GitHub\WpfApp1mvvm (1)\WpfApp1mvvm\WpfApp1mvvm\obj\Debug\net6.0-windows\ref\WpfApp1mvvm.dll
